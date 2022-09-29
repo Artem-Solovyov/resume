@@ -48,6 +48,7 @@ body {
   line-height: 24px;
   color: #595959;
   width: 600px;
+  text-indent: 20px;
 }
 
 /* project stayles */
@@ -106,6 +107,9 @@ body {
   margin-bottom: 10px;
 }
 .organization {
+  color: #fb6d3a;
+}
+.visible {
   color: #fb6d3a;
 }
 
