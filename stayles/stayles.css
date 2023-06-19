@@ -23,7 +23,7 @@ body {
 /* about stayles */
 
 .about {
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 .about-position {
   font-style: normal;
@@ -49,6 +49,7 @@ body {
   color: #595959;
   width: 600px;
   text-indent: 20px;
+  margin-bottom: 60px;
 }
 
 /* project stayles */
@@ -56,6 +57,7 @@ body {
   margin-bottom: 50px;
 }
 .title {
+  margin-top: 60px;
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
@@ -254,4 +256,15 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
+}
+
+.portfolio {
+  text-decoration: none;
+  font-weight: 600;
+  color: #000;
+  padding: 16px 0;
+  font-size: 18px;
+}
+.portfolio span {
+  font-weight: 400;
 }
